@@ -6,3 +6,10 @@ Simple C++ Colorizing Text Ediit for Windows
 - Block : Shift and Arrow keys
 - Block Copyy: Ctrl-C
 - Block Paste: Ctrl-V
+
+Usage:  medit <filename> [-lang=C++|C#|C|MSQL|NONE>|-?>
+
+	Defaults to C++ if language is not defined.
+
+![Running Example](MEdit01.png)
+
