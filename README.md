@@ -1,5 +1,6 @@
 # MEdit
-Simple C++ Colorizing Text Ediit for Windows 
+Simple C++ Colorizing Text Editor for Windows that is written from scratch.  
+Editor is not based on windows edit control. 
 
 - Undo : Ctrl-Z 
 - Redo : Ctrl-Y
