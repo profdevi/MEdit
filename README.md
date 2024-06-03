@@ -4,7 +4,7 @@ Simple C++ Colorizing Text Ediit for Windows
 - Undo : Ctrl-Z 
 - Redo : Ctrl-Y
 - Block : Shift and Arrow keys
-- Block Copyy: Ctrl-C
+- Block Copy: Ctrl-C
 - Block Paste: Ctrl-V
 
 Usage:  medit <filename> [-lang=C++|C#|C|MSQL|NONE>|-?>
