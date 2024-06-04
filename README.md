@@ -14,5 +14,5 @@ Usage:  medit <filename> [-lang=C++|C#|C|MSQL|NONE>|-?>
 
 ![Running Example](MEdit01.png)
 
-Compiled binary is bin folder:  bin/MEdit.exe
+Compiled binary with no C runtime dll dependency to the bin folder:  bin/MEdit.exe
 
